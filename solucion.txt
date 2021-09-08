@@ -1,0 +1,3112 @@
+14: Comienzo a comer. Ya hay 0
+Mesa: [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+16: Comienzo a comer. Ya hay 1
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+15: Comienzo a comer. Ya hay 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+18: Comienzo a comer. Ya hay 3
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+17: Comienzo a comer. Ya hay 4
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+19: Comienzo a comer. Ya hay 5
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+15: Voy a comer. Me faltan 7 platos
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+14: Voy a comer. Me faltan 7 platos
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Fregadero: [1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Fregadero: [1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Fregadero: [2] --- Lavaplatos está lavando 1
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Fregadero: [2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+17: Voy a comer. Me faltan 7 platos
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1, 1, 1] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1, 1, 1, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 1, 1, 2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 1, 1, 2, 2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 1, 2, 2, 2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 1, 1, 1, 2, 2, 2, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 2] --- 16 ha retirado un: 2
+Fregadero: [2, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [2, 2, 2, 1, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 2, 1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 1, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+15: Voy a comer. Me faltan 6 platos
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 1] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 1, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 1, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 1, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 1, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 1] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 1] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2, 1] --- 17 ha retirado un: 1
+14: Voy a comer. Me faltan 6 platos
+Mesa: [2, 2, 1, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2] --- 17 ha retirado un: 2
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 19 ha retirado un: 2
+Fregadero: [2, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [2, 2, 1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 18 ha retirado un: 1
+Fregadero: [2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+15: Voy a comer. Me faltan 5 platos
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+17: Voy a comer. Me faltan 6 platos
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+18: Voy a comer. Me faltan 7 platos
+Mesa: [2] --- 19 ha retirado un: 2
+16: Voy a comer. Me faltan 7 platos
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 1, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2] --- 14 ha retirado un: 2
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Fregadero: [1, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+14: Voy a comer. Me faltan 5 platos
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 2] --- 19 ha retirado un: 2
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Fregadero: [1, 2, 1, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 1, 1, 1] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+19: Voy a comer. Me faltan 7 platos
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2, 1] --- 17 ha retirado un: 2
+Fregadero: [1, 1, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [2, 1, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Fregadero: [1, 1, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 1, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+17: Voy a comer. Me faltan 5 platos
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1] --- 15 ha retirado un: 2
+Mesa: [1] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 1
+Mesa: [2] --- 15 ha retirado un: 2
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 2, 2, 2] --- Metieron al fregadero un 2
+Mesa: [1] --- 16 ha retirado un: 2
+Mesa: [] --- 16 ha retirado un: 1
+19: Voy a comer. Me faltan 6 platos
+Fregadero: [1, 2, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 2, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 2, 2, 1] --- Lavaplatos está lavando 1
+15: Voy a comer. Me faltan 4 platos
+Fregadero: [2, 2, 2, 1, 1] --- Metieron al fregadero un 1
+16: Voy a comer. Me faltan 6 platos
+Fregadero: [2, 2, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1] --- 18 ha retirado un: 1
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2] --- 14 ha retirado un: 1
+Mesa: [] --- 14 ha retirado un: 2
+18: Voy a comer. Me faltan 6 platos
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 2, 2, 1] --- Metieron al fregadero un 1
+14: Voy a comer. Me faltan 4 platos
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 2, 1, 2] --- Metieron al fregadero un 2
+15: Esperando a que el resto de los comensales lleguen a 4
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 18 ha retirado un: 2
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Fregadero: [1, 2, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [2, 1, 1] --- 17 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 18 ha retirado un: 2
+Fregadero: [2, 1, 2, 2] --- Lavaplatos está lavando 1
+Mesa: [1, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Fregadero: [2, 1, 2, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 18 ha retirado un: 2
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1] --- 16 ha retirado un: 2
+Mesa: [1] --- 16 ha retirado un: 2
+Mesa: [2, 2] --- 16 ha retirado un: 1
+Mesa: [2] --- 16 ha retirado un: 2
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 1
+18: Voy a comer. Me faltan 5 platos
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+17: Voy a comer. Me faltan 4 platos
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+14: Esperando a que el resto de los comensales lleguen a 4
+16: Voy a comer. Me faltan 5 platos
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2] --- 19 ha retirado un: 2
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 2, 2, 1] --- Metieron al fregadero un 1
+19: Voy a comer. Me faltan 5 platos
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1, 2] --- 18 ha retirado un: 2
+Mesa: [2, 1, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 2
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+18: Voy a comer. Me faltan 4 platos
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 1, 1, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Fregadero: [1, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 1
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 2
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+Mesa: [2, 2, 2, 1, 1, 1] --- 16 ha retirado un: 2
+Fregadero: [1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Fregadero: [1, 2, 1, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [1, 1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Fregadero: [2, 1, 1, 2, 1] --- Lavaplatos está lavando 1
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 1] --- 16 ha retirado un: 2
+Fregadero: [1, 1, 2, 1] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2, 2, 2, 1, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 2, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 1, 2, 1, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Fregadero: [1, 1, 2, 1, 2] --- Metieron al fregadero un 2
+17: Esperando a que el resto de los comensales lleguen a 4
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 1
+19: Voy a comer. Me faltan 4 platos
+Fregadero: [1, 2, 1, 2, 2] --- Metieron al fregadero un 2
+18: Esperando a que el resto de los comensales lleguen a 4
+Fregadero: [2, 1, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 2, 1] --- Metieron al fregadero un 1
+16: Voy a comer. Me faltan 4 platos
+Fregadero: [1, 2, 2, 1, 2] --- Metieron al fregadero un 2
+19: Esperando a que el resto de los comensales lleguen a 4
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+16: Comienzo a comer. Ya hay 0
+Mesa: [1, 2, 2, 2, 2, 2, 1, 1, 2, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 2, 1, 1, 2, 1] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1, 2, 1, 1, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1, 1, 2, 1, 1, 1] --- 16 ha retirado un: 2
+15: Comienzo a comer. Ya hay 1
+Mesa: [2, 2, 1, 1, 2, 1, 1, 1, 2, 2] --- 16 ha retirado un: 2
+19: Comienzo a comer. Ya hay 2
+Mesa: [2, 1, 1, 2, 1, 1, 1, 2, 2, 2] --- 16 ha retirado un: 2
+18: Comienzo a comer. Ya hay 3
+Mesa: [1, 1, 2, 1, 1, 1, 2, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 1, 1, 1, 2, 2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [1, 1, 1, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2, 1, 1] --- 18 ha retirado un: 1
+17: Comienzo a comer. Ya hay 4
+Mesa: [1, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+14: Comienzo a comer. Ya hay 5
+Mesa: [2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [2, 2, 2, 1, 1, 1, 2, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1, 2, 1] --- 15 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 1, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 1, 2, 2, 2] --- 15 ha retirado un: 2
+Mesa: [1, 1, 2, 1, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [1, 2, 1, 2, 2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 1, 2, 2, 2, 2, 1, 1] --- 15 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 2
+Mesa: [2, 2, 2, 2, 1, 1, 1] --- 15 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2, 1, 1] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1, 1, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 1, 1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 1, 2, 2, 2] --- 14 ha retirado un: 2
+Mesa: [1, 1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [1, 2, 2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+15: Voy a comer. Me faltan 3 platos
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+17: Voy a comer. Me faltan 3 platos
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+18: Voy a comer. Me faltan 3 platos
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1] --- 16 ha retirado un: 2
+Mesa: [2, 2, 1, 2] --- 16 ha retirado un: 2
+Mesa: [2, 1, 2, 2] --- 16 ha retirado un: 2
+Mesa: [1, 2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 2] --- 16 ha retirado un: 1
+Mesa: [2, 2, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2, 2, 1] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [2, 2, 1] --- 19 ha retirado un: 2
+Mesa: [2, 1, 2] --- 19 ha retirado un: 2
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 1, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [1, 2, 2] --- 14 ha retirado un: 2
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 1
+16: Voy a comer. Me faltan 3 platos
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+19: Voy a comer. Me faltan 3 platos
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+17: Voy a comer. Me faltan 2 platos
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+Mesa: [2, 2, 1] --- 14 ha retirado un: 2
+Mesa: [2, 1, 2] --- 14 ha retirado un: 2
+Mesa: [1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+14: Voy a comer. Me faltan 3 platos
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2] --- 18 ha retirado un: 2
+Mesa: [] --- 18 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 1, 2, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 1
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 2, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 2] --- 15 ha retirado un: 2
+Fregadero: [2, 2, 1, 1] --- Lavaplatos está lavando 1
+Mesa: [1, 2, 2] --- 15 ha retirado un: 2
+Fregadero: [2, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+18: Voy a comer. Me faltan 2 platos
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 2
+Mesa: [2, 1] --- 16 ha retirado un: 2
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 2] --- 16 ha retirado un: 2
+Mesa: [2, 2] --- 16 ha retirado un: 1
+Mesa: [2] --- 16 ha retirado un: 2
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [] --- 19 ha retirado un: 2
+15: Voy a comer. Me faltan 2 platos
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Mesa: [] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Fregadero: [1, 1, 2, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 1
+16: Voy a comer. Me faltan 2 platos
+Fregadero: [1, 2, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 2, 1, 1] --- Lavaplatos está lavando 1
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 2, 1, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 1, 1, 1] --- Metieron al fregadero un 1
+19: Voy a comer. Me faltan 2 platos
+Fregadero: [1, 1, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1, 2] --- 17 ha retirado un: 2
+Mesa: [1, 2] --- 17 ha retirado un: 2
+Mesa: [2, 2, 2] --- 17 ha retirado un: 1
+Mesa: [2, 2] --- 17 ha retirado un: 2
+Fregadero: [1, 1, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 1, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 1, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2, 1] --- 18 ha retirado un: 2
+Mesa: [2, 1] --- 18 ha retirado un: 2
+Mesa: [1, 2, 2] --- 18 ha retirado un: 2
+Mesa: [2, 2, 2] --- 18 ha retirado un: 1
+Mesa: [2, 2] --- 18 ha retirado un: 2
+17: Voy a comer. Me faltan 1 platos
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1] --- 15 ha retirado un: 2
+Mesa: [1] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 1
+Mesa: [2] --- 15 ha retirado un: 2
+Fregadero: [2, 1, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 2, 2, 2] --- Metieron al fregadero un 2
+Mesa: [1] --- 14 ha retirado un: 2
+Mesa: [] --- 14 ha retirado un: 1
+Fregadero: [1, 2, 2, 2] --- Lavaplatos está lavando 2
+18: Voy a comer. Me faltan 1 platos
+Fregadero: [1, 2, 2, 2, 2] --- Metieron al fregadero un 2
+Mesa: [] --- 16 ha retirado un: 1
+15: Voy a comer. Me faltan 1 platos
+14: Voy a comer. Me faltan 2 platos
+Fregadero: [2, 2, 2, 2] --- Lavaplatos está lavando 1
+Mesa: [] --- 16 ha retirado un: 2
+Fregadero: [2, 2, 2, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 2, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 2, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [] --- 19 ha retirado un: 1
+16: Voy a comer. Me faltan 1 platos
+Mesa: [] --- 19 ha retirado un: 2
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+19: Voy a comer. Me faltan 1 platos
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2, 2] --- 15 ha retirado un: 2
+Mesa: [2, 1, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Mesa: [1, 2, 2] --- 15 ha retirado un: 2
+Fregadero: [1, 1, 2, 2, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2, 2] --- 15 ha retirado un: 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2] --- 15 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Mesa: [2] --- 14 ha retirado un: 2
+Fregadero: [1, 2, 2, 1] --- Lavaplatos está lavando 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [1, 2, 2, 1, 1] --- Metieron al fregadero un 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 2
+15: Voy a comer. Me faltan 0 platos
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 1] --- 14 ha retirado un: 2
+Fregadero: [2, 2, 1, 1] --- Lavaplatos está lavando 1
+Mesa: [2, 1, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 2, 1, 1, 1] --- Metieron al fregadero un 1
+Mesa: [1, 2, 2] --- 14 ha retirado un: 2
+Mesa: [2, 2, 2] --- 14 ha retirado un: 1
+Mesa: [2, 2] --- 14 ha retirado un: 2
+Fregadero: [2, 1, 1, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 1, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1] --- 17 ha retirado un: 2
+Mesa: [1] --- 17 ha retirado un: 2
+Mesa: [2, 2] --- 17 ha retirado un: 1
+Mesa: [2] --- 17 ha retirado un: 2
+Fregadero: [1, 1, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 1, 2, 1] --- Metieron al fregadero un 1
+14: Voy a comer. Me faltan 1 platos
+17: Voy a comer. Me faltan 0 platos
+Fregadero: [1, 1, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [1, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 1, 2, 1, 1, 2] --- Metieron al fregadero un 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 1, 2] --- 19 ha retirado un: 2
+Fregadero: [1, 2, 1, 1, 2] --- Lavaplatos está lavando 1
+Mesa: [1, 2, 2] --- 19 ha retirado un: 2
+Mesa: [2, 2, 2] --- 19 ha retirado un: 1
+Mesa: [2, 2] --- 19 ha retirado un: 2
+Fregadero: [2, 1, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 1, 2, 2] --- Metieron al fregadero un 2
+Mesa: [2, 1] --- 14 ha retirado un: 2
+Mesa: [1] --- 14 ha retirado un: 2
+Mesa: [2, 2] --- 14 ha retirado un: 1
+Mesa: [2] --- 14 ha retirado un: 2
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 2, 2, 2] --- Metieron al fregadero un 2
+15: Estoy lleno
+Fregadero: [1, 2, 2, 2] --- Lavaplatos está lavando 1
+19: Voy a comer. Me faltan 0 platos
+Fregadero: [1, 2, 2, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 2, 2, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [1, 2] --- 16 ha retirado un: 2
+Mesa: [2] --- 16 ha retirado un: 1
+14: Voy a comer. Me faltan 0 platos
+Fregadero: [2, 2, 2, 1, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 2, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [2, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 2
+16: Voy a comer. Me faltan 0 platos
+Fregadero: [2, 1, 2, 1, 2] --- Metieron al fregadero un 2
+Mesa: [1, 1, 2] --- 18 ha retirado un: 2
+Mesa: [1, 2] --- 18 ha retirado un: 1
+Fregadero: [1, 2, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 2, 1, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 2, 1] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 2, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [1, 2, 1, 1] --- Lavaplatos está lavando 2
+18: Voy a comer. Me faltan 0 platos
+Fregadero: [1, 2, 1, 1, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 1, 1, 1] --- Lavaplatos está lavando 1
+Fregadero: [2, 1, 1, 1, 2] --- Metieron al fregadero un 2
+17: Estoy lleno
+Fregadero: [1, 1, 1, 2] --- Lavaplatos está lavando 2
+Fregadero: [1, 1, 1, 2, 2] --- Metieron al fregadero un 2
+19: Estoy lleno
+Fregadero: [1, 1, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 1, 2, 2, 2] --- Metieron al fregadero un 2
+14: Estoy lleno
+Fregadero: [1, 2, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [1, 2, 2, 2, 2] --- Metieron al fregadero un 2
+16: Estoy lleno
+Fregadero: [2, 2, 2, 2] --- Lavaplatos está lavando 1
+Fregadero: [2, 2, 2, 2, 1] --- Metieron al fregadero un 1
+Fregadero: [2, 2, 2, 1] --- Lavaplatos está lavando 2
+Fregadero: [2, 2, 2, 1, 2] --- Metieron al fregadero un 2
+18: Estoy lleno
+18: Fui el último en terminar de comer, a mimir

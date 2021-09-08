@@ -22,6 +22,7 @@ public class Comensal extends Thread{
         this.cubiertoT1 = false;
         this.cubiertoT2 = false;
         this.tipoCubiertoBuscado = 0; 
+
     }
 
     public void run(){
