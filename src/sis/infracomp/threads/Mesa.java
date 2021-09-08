@@ -3,10 +3,9 @@ package sis.infracomp.threads;
 import java.util.ArrayList;
 
 public class Mesa {
-    // private int cantidadCubiertos;
-    private ArrayList<Object> buff;
-    private Object monitorEspera = new Object();
-    private int comensalesComiendo;
+    private ArrayList<Object> buff;                 // El ArrayList del buffer
+    private Object monitorEspera = new Object();    // El monitor de espera para añadir o retirar cubiertos
+    private int comensalesComiendo;                 // La cantidad de comensales comiendo en un momento dado
 
     public Mesa(){
         buff = new ArrayList<Object>();
